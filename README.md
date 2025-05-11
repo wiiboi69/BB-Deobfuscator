@@ -1,6 +1,7 @@
 # BB-Deobfuscator
-BeeByte Deobfuscator simply renames all the classes/fields/methods/params/Properties to readable strings and  that can be understood.
-BB Obfuscator renames classes, Adds fake methods, Namespaces deletion without error
+BeeByte Deobfuscator simply renames all the classes/fields/methods/params/Properties to readable strings and can read from a json file to get the name that is originally named or close ot it.
+
+BB Obfuscator renames classes, Adds fake methods, Namespaces deletion without error. 
 
 ## Usage:
 `.\BB_Deob.exe .\Assembly-CSharp.dll .\map.json`
