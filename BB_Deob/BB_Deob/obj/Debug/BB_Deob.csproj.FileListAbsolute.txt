@@ -1,0 +1,12 @@
+e:\vs_source\repos\BB-Deobfuscator\BB_Deob\BB_Deob\bin\Debug\BB_Deob.exe.config
+e:\vs_source\repos\BB-Deobfuscator\BB_Deob\BB_Deob\bin\Debug\BB_Deob.exe
+e:\vs_source\repos\BB-Deobfuscator\BB_Deob\BB_Deob\bin\Debug\BB_Deob.pdb
+e:\vs_source\repos\BB-Deobfuscator\BB_Deob\BB_Deob\bin\Debug\dnlib.dll
+e:\vs_source\repos\BB-Deobfuscator\BB_Deob\BB_Deob\bin\Debug\Newtonsoft.Json.dll
+e:\vs_source\repos\BB-Deobfuscator\BB_Deob\BB_Deob\bin\Debug\dnlib.xml
+e:\vs_source\repos\BB-Deobfuscator\BB_Deob\BB_Deob\bin\Debug\Newtonsoft.Json.xml
+e:\vs_source\repos\BB-Deobfuscator\BB_Deob\BB_Deob\obj\Debug\BB_Deob.csproj.AssemblyReference.cache
+e:\vs_source\repos\BB-Deobfuscator\BB_Deob\BB_Deob\obj\Debug\BB_Deob.csproj.CoreCompileInputs.cache
+e:\vs_source\repos\BB-Deobfuscator\BB_Deob\BB_Deob\obj\Debug\BB_Deob.csproj.Up2Date
+e:\vs_source\repos\BB-Deobfuscator\BB_Deob\BB_Deob\obj\Debug\BB_Deob.exe
+e:\vs_source\repos\BB-Deobfuscator\BB_Deob\BB_Deob\obj\Debug\BB_Deob.pdb
