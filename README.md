@@ -1,11 +1,11 @@
-# BB-Deob
-BeeByte Deobfuscator simply renames all the classes/fields/methods/params to readable strings that can be understood.
-AS I know BB Obfuscator only renames classes and etc, so it should be fully reversable at that point.
+# BB-Deobfuscator
+BeeByte Deobfuscator simply renames all the classes/fields/methods/params/Properties to readable strings and  that can be understood.
+BB Obfuscator renames classes, Adds fake methods, Namespaces deletion without error
 
 ## Usage:
-`.\BB_Deob.exe .\Assembly-CSharp.dll`
+`.\BB_Deob.exe .\Assembly-CSharp.dll .\map.json`
 ## Before:
-![before](https://cdn.discordapp.com/attachments/595569609885745155/596706307021471783/unknown.png "Before SS")
+![before](https://github.com/user-attachments/assets/5693f573-0fbc-421f-854b-50906877467e)
 
 ## After:
-![after](https://cdn.discordapp.com/attachments/595569609885745155/596706394607058973/unknown.png "After SS")
+![after](https://github.com/user-attachments/assets/93048344-1ca1-4f8f-8ea9-3232158a1608)
